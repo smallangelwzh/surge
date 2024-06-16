@@ -371,6 +371,3 @@ DOMAIN-SUFFIX,zhangzishi.cc
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com
-
-# DNSPod Public DNS+
-IP-CIDR,119.28.28.28/32,no-resolve
