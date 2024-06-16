@@ -98,6 +98,7 @@ DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,mi.com
 # > Microsoft
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,msecnd.net
@@ -260,6 +261,7 @@ DOMAIN-SUFFIX,westlaw.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,worldbank.org
 DOMAIN-SUFFIX,worldscientific.com
+
 # > Other
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,360in.com
@@ -285,7 +287,9 @@ DOMAIN-SUFFIX,chua.pro
 DOMAIN-SUFFIX,chuimg.com
 DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,chushou.tv
+# 招商银行
 DOMAIN-SUFFIX,cmbchina.com
+
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,dfcfw.com
